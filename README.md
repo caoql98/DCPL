@@ -1,2 +1,2 @@
 # DCPL
-Domain-Controlled Prompt Learning for Remote Sensing Images
+Domain-Controlled Prompt Learning
